@@ -1,2 +1,3 @@
-Tp install dependencies use:  yarn || npm i
-To run app use: yarn dev || npm run dev
+# Concept builder replace api 
+## To install dependencies use:  `yarn` or `npm i`
+## To run app use: `yarn dev` or `npm run dev`
